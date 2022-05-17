@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Epaltechs/Todo-list.git"
+    "url": "git+https://github.com/Epaltechs/Leaderboard.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Epaltechs/Todo-list/issues"
+    "url": "https://github.com/Epaltechs/Leaderboard/issues"
   },
-  "homepage": "https://github.com/Epaltechs/Todo-list#readme",
+  "homepage": "https://github.com/Epaltechs/Leaderboard#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.5.1",

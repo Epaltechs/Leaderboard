@@ -1,10 +1,10 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# To-Do-list
+# Leaderboard
 
-> This To-do-list-webpack site provides users a convenient way to keep track of their everyday tasks.
+This Leaderboard is designed to provide users a convenient way to keep record of their scores.
 
-![screenshot](./screen.png)
+![screenshot](./Screenshot.png)
 
 ## Built With
 
@@ -23,7 +23,7 @@
 
 👤 **Emmanuel Paul**
 
-- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Webpack)
+- GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Leaderboard)
 - Twitter: [Emmanuel Paul][http://twitter.com/@emmapaul247]
 - LinkedIn: [Emmanuel Paul][https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
 
@@ -32,7 +32,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Epaltechs/To-Do-list/issues).
+Feel free to check the [issues page](https://github.com/Epaltechs/Leaderboard/issues).
 
 ## Show your support
 
