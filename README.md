@@ -4,13 +4,16 @@
 
 This Leaderboard is designed to provide users a convenient way to keep record of their scores.
 
-![screenshot](./Screenshot.png)
+![screenshot](./gameview.png)
 
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
+- Webpack
+- JSON
+- API
 - Linters
 
 ## Instructions to run locally:
@@ -19,7 +22,7 @@ This Leaderboard is designed to provide users a convenient way to keep record of
 2. write npm install in your terminal to install dependencies
 3. write npm start to see the output.
 
-## Authors
+## Author
 
 👤 **Emmanuel Paul**
 
