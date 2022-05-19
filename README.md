@@ -22,6 +22,10 @@ This Leaderboard is designed to provide users a convenient way to keep record of
 2. write npm install in your terminal to install dependencies
 3. write npm start to see the output.
 
+## Live Demo
+
+[Go Live](https://epaltechs.github.io/Leaderboard/dist)
+
 ## Author
 
 👤 **Emmanuel Paul**
