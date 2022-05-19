@@ -24,7 +24,7 @@ This Leaderboard is designed to provide users a convenient way to keep record of
 
 ## Live Demo
 
-[Go Live](https://epaltechs.github.io/Leaderboard/dist/final)
+[Go Live](https://epaltechs.github.io/Leaderboard/src)
 
 ## Author
 
