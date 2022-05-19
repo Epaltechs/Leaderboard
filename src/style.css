@@ -9,9 +9,17 @@
 }
 
 body {
+  color: #fff;
+  background-image:
+    linear-gradient(to right bottom, #ac90ad9c, #1a613309),
+    url("./background/Background.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
   font-family: "Chakra Petch", sans-serif;
   text-align: center;
   padding-top: 8vh;
+  height: 100vh;
 }
 
 .container {
@@ -41,7 +49,7 @@ body {
 }
 
 .scores li:nth-child(2n) {
-  background-color: rgb(228 224 224);
+  background-color: rgba(104, 59, 89, 0.445);
 }
 
 .form-scores form {
