@@ -1,4 +1,4 @@
-const id = '5EPreczDXOQ3rFbrQjCF';
+const id = '4XEvJenIyQnAlKwZCQr6';
 
 export const getScores = async () => {
   const response = await fetch(
