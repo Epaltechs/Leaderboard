@@ -26,6 +26,7 @@ This Leaderboard is designed to provide users a convenient way to keep record of
 
 [Go Live](https://epaltechs.github.io/Leaderboard/dist/)
 
+
 ## Author
 
 👤 **Emmanuel Paul**
