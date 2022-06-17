@@ -33,7 +33,7 @@ This Leaderboard is designed to provide users a convenient way to keep record of
 
 - GitHub: [Emmanuel Paul](https://github.com/Epaltechs/Leaderboard)
 - Twitter: [Emmanuel Paul][http://twitter.com/@emmapaul247]
-- LinkedIn: [Emmanuel Paul][https://www.linkedin.com/in/emmanuel-paul-a2bab7b4/]
+- LinkedIn: [Emmanuel Paul][https://www.linkedin.com/in/emmanuel-s-paul/]
 
 
 ## 🤝 Contributing
